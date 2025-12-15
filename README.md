@@ -1,4 +1,4 @@
-## Hi, I'm Guillem
+## 👋 Hi, I'm Guillem
 
 I'm a Java developer with experience building backend applications and services using modern technologies and best practices. I enjoy designing clean, scalable systems and continuously learning new tools in the software ecosystem.
 
