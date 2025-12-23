@@ -4,7 +4,7 @@ I'm a Java developer with experience building backend applications and services 
 
 ## 🚀 Technologies & Tools
 
-Languages: Java, Python, C++
+Languages: Java, Python, C++, JavaScript
 
 Frameworks: Spring Boot
 
