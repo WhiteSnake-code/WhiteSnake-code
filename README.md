@@ -6,7 +6,7 @@ I'm a Java developer with experience building backend applications and services 
 
 Languages: Java, Python, C++
 
-Frameworks: Spring Boot
+Frameworks: Spring Boot, FastAPI
 
 DevOps & Containers: Docker
 
